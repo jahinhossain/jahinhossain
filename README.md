@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jahinhossain&label=Profile%20views&color=0e75b6&style=flat" alt="jahinhossain" /> </p>
 
-- 💬 Ask me about **flutter,**
+- 💬 Ask me about **flutter,java**
 
 - 📫 How to reach me **jahin9340@gmail.com**
 
